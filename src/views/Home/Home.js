@@ -121,7 +121,7 @@ function Home() {
           </select>
         </div>
         <div>
-          <button type='button' onChange={saveData} className='btn'>Save</button>
+          <button type='button' onClick={saveData} className='btn'>Save</button>
         </div>
       </form>
     </div>
