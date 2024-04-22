@@ -1,0 +1,57 @@
+.input-box{
+    border-radius: 10px;
+    display: block;
+    margin:20px auto;
+    padding:10px;
+    font-size: 15px;
+    width:400px;
+
+
+
+}
+.heading{
+    text-align: center;
+}
+.print-info{
+    margin: 10px 40px;
+}
+.form-container{
+    height:600px;
+    width:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid black;
+}
+.input-gender{
+    margin-left: 40px;
+}
+.input-fruit{
+    margin-left: 40px;
+    margin-top:20px;
+
+}
+.select-city{
+    margin-left: 40px;
+    margin-top: 10px;
+    width:200px;
+
+}
+.city{
+    margin-left: 40px;
+}
+.btn{
+    border-radius: 10px;
+    border: 2px solid black;
+    display: block;
+    margin:30px auto;
+    width:100px;
+    padding:10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover{
+    box-shadow: 0 0 5px grey;
+    background-color: rgb(31, 30, 30);
+}
